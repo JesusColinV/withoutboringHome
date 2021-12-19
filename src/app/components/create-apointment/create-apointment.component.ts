@@ -20,34 +20,25 @@ export class CreateApointmentComponent implements OnInit {
 
   ngOnInit(): void {
   }
-  
-  createAppointment(){
-    if(this.name == '' || this.date == '' || this.time == '' || this.syntoms == ''){
-      this.formError = true;
-      return;
-    }else{
-      this.formError = false;
-    }
-
-
-    const DATA = {
-      name: this.name,
-      date: this.date,
-      time: this.time,
-      syntoms: this.syntoms
-    }
-
-    // console.log(DATA)
-    this.newAppointment.emit(DATA)
-    this.deleteData();
+  ruleta(){
+    window.open('https://ruletaactividades.netlify.app');
   }
-
-  deleteData():void{
-    this.name = '';
-    this.date = '';
-    this.time = '';
-    this.syntoms = '';
+  noticias(){
+    window.open('http://localhost:4200')
   }
-
-  
+  tripadvisor(){
+    window.open('https://www.tripadvisor.com.mx')
+  }
+  ejercicios(){
+    window.open('https://finisher.es/blog/rutina-casa-ejercicios-deporte/')
+  }
+  peliculas(){
+    window.open('https://cuevana3.io')
+  }
+  libros(){
+    window.open('https://libreappgerardoq.netlify.app')
+  }
+  imagenes(){
+    window.open('https://wen-ng-pixabay-jacv.netlify.app')
+  }
 }

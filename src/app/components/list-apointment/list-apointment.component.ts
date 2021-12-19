@@ -7,19 +7,35 @@ import { Component, EventEmitter, Input, OnInit, Output } from '@angular/core';
 })
 export class ListApointmentComponent implements OnInit {
 
-  @Input() listAppointmentC: any;
-  @Output() deleteCita = new EventEmitter<number>();
+  
 
   constructor() { 
-    console.log(this.listAppointmentC);
   }
 
   ngOnInit(): void {
   }
 
-  deleteList(i:number):void{
-    this.deleteCita.emit(i)
+  calculadora(){
+    window.open('https://hackathoncalculadora.netlify.app');
   }
+  opiniones(){
+    window.open('http://localhost:8095')
+  }
+
+  itinerario(){
+    window.open('https://itinerariohackathon.netlify.app')
+  }
+  checklist(){
+    window.open('https://check-list-jacv.netlify.app')
+  }
+  clima(){
+    window.open('https://web-ng-weather-jacv.netlify.app')
+  }
+  vuelos(){
+    window.open('https://www.google.com/flights/?hl=es_419')
+  }
+ 
+  
 
   
 }

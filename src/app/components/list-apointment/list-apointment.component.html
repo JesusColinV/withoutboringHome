@@ -1,16 +1,26 @@
-<div class="card text-left bg-light" >
+<div class="card text-left bg-light">
   <img class="card-img-top" src="holder.js/100px180/" alt="">
-  <div *ngIf="listAppointmentC.length === 0" class="card-body">
-    <h4 class="card-title">No appointments to show</h4>
-  </div>
-  <h4 *ngIf="listAppointmentC.length != 0" class="card-title">Appointment list</h4>
-  <div *ngFor="let data of listAppointmentC; let i = index" class="card mt-2">
-    <div   class="card-body">
-        <p class="card-text"><span>Name:</span>{{ data.name }}</p>
-        <p class="card-text"><span>Date:</span>{{ data.date }}</p>
-        <p class="card-text"><span>Time:</span>{{ data.time }}</p>
-        <p class="card-text"><span>Syntoms:</span>{{ data.syntoms }}</p>
-        <button style="width: 100%;" class="btn btn-danger btn-block" (click)=deleteList(i)> Delete </button>
-    </div>
+  <div class="card-body">
+    <h4 class="card-title">Actividades para tu viaje</h4>
+    <button style="width: 100%;"class="btn btn-warning btn-block mt-5" (click)="calculadora()"> 
+        Cambio de divisa
+    </button>
+    <button style="width: 100%;"class="btn btn-warning btn-block mt-5" (click)="opiniones()"> 
+        Opiniones
+    </button>
+    <button style="width: 100%;"class="btn btn-warning btn-block mt-5" (click)="itinerario()"> 
+        Itinerario
+    </button>
+    <button style="width: 100%;"class="btn btn-warning btn-block mt-5" (click)="checklist()"> 
+        checklist
+    </button>
+    <button style="width: 100%;"class="btn btn-warning btn-block mt-5" (click)="clima()"> 
+      clima
+   </button>
+   <button style="width: 100%;"class="btn btn-warning btn-block mt-5" (click)="vuelos()"> 
+    vuelos
+  </button>
+  
+
   </div>
 </div>
