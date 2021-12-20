@@ -1,27 +1,44 @@
-# WebNgAgenda
+# WithoutBoring
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.4.
+Preocupados por la taza de suicidios en este periodo del año (invierno) hemos decidido desarrollar y recopilar un conjunto de herramientas para combatir el aburriemiento, con el objetivo de disminuir la depresión al mantener ocupado con actividades recreativas a nuestros visitantes
 
-## Development server
+# Video
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+https://www.youtube.com/watch?v=opYvw_Q2KIk
 
-## Code scaffolding
+# Mira como funciona.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+[![IMAGE ALT TEXT HERE](https://github.com/JesusColinV/withoutboringHome/blob/main/Evidencias/diagrama.png)](https://github.com/JesusColinV/withoutboringHome/tree/main/Evidencias)
 
-## Build
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+## Home.
 
-## Running unit tests
+![IMAGE ALT TEXT HERE](https://github.com/JesusColinV/withoutboringHome/blob/main/Evidencias/Imagen1.PNG)
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+### Servicio de opiniones.
 
-## Running end-to-end tests
+[![IMAGE ALT TEXT HERE](https://github.com/JesusColinV/withoutboringHome/blob/main/Evidencias/imagen7.PNG)](https://github.com/JesusColinV/withoutboringHome)
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
 
-## Further help
+### Redes sociales.
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+[![IMAGE ALT TEXT HERE](https://github.com/JesusColinV/withoutboringHome/blob/main/Evidencias/2021-12-19%20(2).png)](https://www.facebook.com/WithoutBoring-111486401390483)
+
+
+
+### BlobStorage [Aquí](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Falmacenamientoideas.blob.core.windows.net%2Falmacenamiento%2Fideas%2520(1).xlsx&wdOrigin=BROWSELINK)
+
+### otros repositorios realizados
+
+https://github.com/JesusColinV/holidays
+https://github.com/JesusColinV/itinerario
+
+### Información tecnicna
+
+
+* TCO
+https://github.com/JesusColinV/withoutboringHome/blob/main/Evidencias/Calculadora%20del%20costo%20total%20de%20propiedad%20(TCO)%20_%20Microsoft%20Azure.pdf
+
+* SLA
+https://github.com/JesusColinV/withoutboringHome/blob/main/Evidencias/diagrama.png
+
