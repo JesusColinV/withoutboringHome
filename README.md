@@ -15,11 +15,11 @@ Fue una competencia muy interesante, aprendimos mucho unos de otros y pasamos la
 
 # Video
 
-https://www.youtube.com/watch?v=opYvw_Q2KIk
+https://vm.tiktok.com/ZM83DGMWb/
 
 # Mira como funciona.
 
-[![IMAGE ALT TEXT HERE](https://github.com/JesusColinV/withoutboringHome/blob/main/Evidencias/diagrama.png)](https://github.com/JesusColinV/withoutboringHome/tree/main/Evidencias)
+[![IMAGE ALT TEXT HERE](https://github.com/JesusColinV/withoutboringHome/blob/main/Evidencias/diagrama2.png)](https://github.com/JesusColinV/withoutboringHome/tree/main/Evidencias)
 
 
 ## Home.
