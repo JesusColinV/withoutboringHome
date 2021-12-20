@@ -2,6 +2,17 @@
 
 Preocupados por la taza de suicidios en este periodo del año (invierno) hemos decidido desarrollar y recopilar un conjunto de herramientas para combatir el aburriemiento, con el objetivo de disminuir la depresión al mantener ocupado con actividades recreativas a nuestros visitantes
 
+# Participantes
+
+* Colin Vilchis Jesus Alejandro
+* Francisco Darinel Angeles
+* Danna Paola González
+* PABLO RAFAEL BRAVO
+
+# ¿Qué nos pareció el evento?
+
+Fue una competencia muy interesante, aprendimos mucho unos de otros y pasamos las noches enteras apurandonos para lograr ganar el hackathon, asignamos roles y fue un gran ejercicio de trabajo en equipo, sabiamos que solo juntos lograriamos llenar las espectativas de nuestra solución
+
 # Video
 
 https://www.youtube.com/watch?v=opYvw_Q2KIk
