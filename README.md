@@ -30,14 +30,14 @@ https://www.youtube.com/watch?v=opYvw_Q2KIk
 
 ### otros repositorios realizados
 
-https://github.com/JesusColinV/holidays
-https://github.com/JesusColinV/itinerario
-https://github.com/JesusColinV/ruletahackathon2021
-https://github.com/JesusColinV/salud-hackathon2021
-https://github.com/JesusColinV/noticiashackathon2021
-https://github.com/JesusColinV/inspiracion-hackathon2021
-https://github.com/JesusColinV/presupuesto-hackathon2021
-https://github.com/JesusColinV/checklist-hackathon
+* https://github.com/JesusColinV/holidays                  
+* https://github.com/JesusColinV/itinerario               
+* https://github.com/JesusColinV/ruletahackathon2021                  
+* https://github.com/JesusColinV/salud-hackathon2021              
+* https://github.com/JesusColinV/noticiashackathon2021                    
+* https://github.com/JesusColinV/inspiracion-hackathon2021                 
+* https://github.com/JesusColinV/presupuesto-hackathon2021               
+* https://github.com/JesusColinV/checklist-hackathon               
 
 ### Información tecnicna
 
