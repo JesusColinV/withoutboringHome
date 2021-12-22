@@ -59,3 +59,5 @@ https://github.com/JesusColinV/withoutboringHome/blob/main/Evidencias/Calculador
 * SLA
 https://github.com/JesusColinV/withoutboringHome/blob/main/Evidencias/diagrama.png
 
+* Web
+https://withoutboring.netlify.app
